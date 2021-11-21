@@ -1,4 +1,6 @@
 .center {
+    height: 130px,
+    width:130px,
     margin: 0;
     position: absolute;
     top: 50%;
