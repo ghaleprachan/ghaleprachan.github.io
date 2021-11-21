@@ -3,15 +3,24 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d1ff96a71ff1e68baa98ae36c0d7f739",
+  "assets/AssetManifest.json": "201d5bcedc5701e93abd780b22e58f96",
 "assets/assets/developer_logo.png": "fec0e41c258828f010752d5447227251",
 "assets/assets/dhukka_rider.png": "4956790f787edfa7bddcc72997bd5061",
 "assets/assets/dhukka_user.png": "167ea8989d3d5ab3b8c620b85e4fa920",
 "assets/assets/kalpa_logistics.png": "d6512ea6e2bf819e7ada4343a21a687f",
+"assets/assets/lottie/dhukka_rider_lottie.json": "344001b7e2e2e82118231b844fb2717c",
+"assets/assets/lottie/food_delivery_rider.json": "68451f8b1329b366193db4fa1ca5be7d",
+"assets/assets/lottie/food_services.json": "a213e922eb8f986dcc1188f54fc62acd",
 "assets/assets/lottie/home_bg.json": "349ecaf86f6d466830a5127b8ea37ff9",
+"assets/assets/lottie/kalpa_logists.json": "e6a35adc8f9b18128979dc22cca74c4e",
 "assets/assets/lottie/kotlin_dev.json": "660198ee83b09725b406bb6f1c9d871f",
+"assets/assets/lottie/ride_share_rider.json": "d12a88e5d286acecb99af101541f2b18",
+"assets/assets/lottie/ride_share_user.json": "da8eecdf1136501d1cbf1eb5a80ea0e5",
+"assets/assets/lottie/spark.json": "4966b9b7627e5b23e3a145da95181ea5",
+"assets/assets/lottie/tiffin_batta_food.json": "a923b2851df8c26822d9de4c9c704618",
 "assets/assets/lottie/working_history.json": "5ba35f0b56b2d43c194622d009334c45",
 "assets/assets/lottie/work_history.json": "7ccfb6de7f2ea4c466a1b7498f6f4c48",
+"assets/assets/lottie/yatru_rider.json": "fa25f9ac1e4e1d03a8f4694a15b084fd",
 "assets/assets/my_profile.PNG": "3cabde20af027666d5b80f9c38a00ba8",
 "assets/assets/spark.png": "aee912f635d73c2d1d6f3914ff2aa2c3",
 "assets/assets/tiffin_batta_rider.png": "30194cf6265c36dc3aa8cc1c30528274",
@@ -37,9 +46,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6570431fe055b9b62f979801e2db9adb",
-"/": "6570431fe055b9b62f979801e2db9adb",
-"main.dart.js": "8940d0e98c31ee945200a83b7fa652a9",
+"index.html": "3edc07102c583e9998d2407cc17f6012",
+"/": "3edc07102c583e9998d2407cc17f6012",
+"main.dart.js": "2876bfc7564969e47535829c4f4b883a",
 "manifest.json": "07f66434d604ccac1b4d5244f35598aa",
 "version.json": "9a4dddba415c9ee5265cd5f5d9963a6a"
 };
